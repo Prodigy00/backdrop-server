@@ -1,0 +1,19 @@
+{
+  "name": "backdrop-server",
+  "version": "1.0.0",
+  "description": "A url shortening service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gideon Idowu",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.22.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
+  }
+}
