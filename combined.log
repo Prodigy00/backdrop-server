@@ -3,3 +3,178 @@
 2021-04-14T22:22:29.090Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
 2021-04-14T22:22:50.997Z [[31merror[39m] : DB_CONNECTION_ERR: mongooe is not defined {"service":"url-shortener-service","stack":"ReferenceError: mongooe is not defined\n    at database (/Users/zl/projects/backdrop-server/config/db.js:17:25)\n    at Object.<anonymous> (/Users/zl/projects/backdrop-server/config/db.js:28:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
 2021-04-14T22:23:40.398Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T22:40:06.929Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T22:59:27.239Z [[32minfo[39m] : 🚀 Server listening on 4000/graphql {"service":"url-shortener-service"}
+2021-04-14T22:59:29.653Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T22:59:29.654Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:02:37.143Z [[32minfo[39m] : 🚀 Server listening on [object Object] {"service":"url-shortener-service"}
+2021-04-14T23:02:39.659Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:02:39.660Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:03:48.978Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql {"service":"url-shortener-service"}
+2021-04-14T23:03:57.048Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:03:57.048Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:06:03.640Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql {"service":"url-shortener-service"}
+2021-04-14T23:06:06.038Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:06:06.039Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:07:38.226Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql {"service":"url-shortener-service"}
+2021-04-14T23:07:40.603Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:07:40.604Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:08:30.980Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql {"service":"url-shortener-service"}
+2021-04-14T23:08:33.040Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:08:33.040Z [[32minfo[39m] : Database connected! {"service":"url-shortener-service"}
+2021-04-14T23:22:29.349Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql 
+2021-04-14T23:22:31.947Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:22:31.948Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:23:58.465Z [[32minfo[39m] : 🚀 Server listening on locahost:4000/graphql 
+2021-04-14T23:24:00.674Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:24:00.674Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:27:39.944Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:27:42.130Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:27:42.131Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:28:46.472Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:28:48.848Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:28:48.848Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:29:05.765Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:29:07.916Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:29:07.917Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:33:44.960Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:33:44.965Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:37:48.868Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:37:53.609Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:37:53.609Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:39:20.885Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:39:23.662Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:39:23.663Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:15.275Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:40:15.296Z [[32minfo[39m] : [object Object] 
+2021-04-14T23:40:17.550Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:17.550Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:29.437Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:40:29.447Z [[32minfo[39m] : [object Object] 
+2021-04-14T23:40:31.823Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:31.823Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:47.310Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:40:49.446Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:40:49.447Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:41:04.031Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:41:06.031Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:41:06.031Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:41:25.476Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:41:27.581Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:41:27.582Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:42:16.753Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:42:19.201Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:42:19.201Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:43:06.368Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:43:08.718Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:43:08.719Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:43:33.849Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:43:35.983Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:43:35.983Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:12.174Z [[32minfo[39m] : [object Object] 
+2021-04-14T23:44:12.190Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:44:14.510Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:14.510Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:27.231Z [[32minfo[39m] : undefined 
+2021-04-14T23:44:27.241Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:44:29.460Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:29.461Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:33.702Z [[32minfo[39m] : undefined 
+2021-04-14T23:44:33.712Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:44:35.977Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:35.978Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:47.845Z [[32minfo[39m] : undefined 
+2021-04-14T23:44:47.861Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:44:50.198Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:44:50.199Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:03.641Z [[32minfo[39m] : undefined 
+2021-04-14T23:45:03.651Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:45:05.701Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:05.702Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:15.744Z [[32minfo[39m] : undefined 
+2021-04-14T23:45:15.767Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:45:17.881Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:17.882Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:21.473Z [[32minfo[39m] : undefined 
+2021-04-14T23:45:21.484Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:45:23.518Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:23.518Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:41.187Z [[32minfo[39m] : undefined 
+2021-04-14T23:45:41.209Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:45:43.673Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:45:43.674Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:11.394Z [[32minfo[39m] : undefined 
+2021-04-14T23:46:11.410Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:46:13.664Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:13.665Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:23.134Z [[32minfo[39m] : undefined 
+2021-04-14T23:46:23.144Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:46:25.413Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:25.414Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:31.918Z [[32minfo[39m] : [object Promise] 
+2021-04-14T23:46:31.929Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-14T23:46:34.245Z [[32minfo[39m] : Database connected! 
+2021-04-14T23:46:34.245Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:31:55.585Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:31:59.751Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:31:59.751Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:45:09.705Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:45:12.638Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:45:12.639Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:46:45.554Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:46:48.208Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:46:48.208Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:46:51.967Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:46:55.241Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:46:55.241Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:47:22.144Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:47:24.948Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:47:24.949Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:53:52.513Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:53:56.823Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:53:56.823Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:54:14.401Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T14:54:18.291Z [[32minfo[39m] : Database connected! 
+2021-04-15T14:54:18.291Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:06:38.275Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:06:41.238Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:06:41.240Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:07:03.138Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:07:05.678Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:07:05.679Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:08:36.967Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:08:40.156Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:08:40.157Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:09:44.541Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:09:47.018Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:09:47.018Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:10:23.476Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:10:28.085Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:10:28.086Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:12:07.321Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:12:07.326Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:12:35.897Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:12:41.121Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:12:41.122Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:13:18.114Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:13:21.562Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:13:21.562Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:14:11.057Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:14:13.286Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:14:13.286Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:14:45.010Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:14:47.897Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:14:47.897Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:15:12.152Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:15:14.537Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:15:14.537Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:15:27.861Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T15:15:30.885Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:15:30.886Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:20:41.126Z [[32minfo[39m] : Database connected! 
+2021-04-15T15:20:41.130Z [[32minfo[39m] : Database connected! 
+2021-04-15T22:32:18.274Z [[32minfo[39m] : Database connected! 
+2021-04-15T22:32:18.297Z [[32minfo[39m] : Database connected! 
+2021-04-15T22:32:53.334Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-15T22:32:55.748Z [[32minfo[39m] : Database connected! 
+2021-04-15T22:32:55.750Z [[32minfo[39m] : Database connected! 

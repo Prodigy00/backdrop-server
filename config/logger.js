@@ -9,11 +9,8 @@ const {
   prettyPrint,
 } = winston.format;
 
-const customFormat = printf(({ level, message, timestamp, ...metadata }) => {
+const customFormat = printf(({ level, message, timestamp }) => {
   let msg = `${timestamp} [${level}] : ${message} `;
-  if (metadata) {
-    msg += JSON.stringify(metadata);
-  }
   return msg;
 });
 
