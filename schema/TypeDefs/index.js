@@ -4,6 +4,7 @@ const typeDefs = gql`
   scalar Date
 
   type Url {
+    _id: ID!
     urlCode: String
     longUrl: String
     shortUrl: String
@@ -11,8 +12,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    hello: String
-    getUrl: Url
+    getUrls: [Url]
   }
 
   type Mutation {
