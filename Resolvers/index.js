@@ -15,9 +15,9 @@ const resolvers = {
   Query: QueryResolver,
 
   Mutation: {
-    shortenUrl: async (parent, args, context) => {
+    shortenUrl: async (parent, args) => {
       const { longUrl } = args;
-      logger.info('context: %O', context);
+
       const baseUrl = BASEURL;
       const urlCode = nanoid();
 
