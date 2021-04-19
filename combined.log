@@ -1706,3 +1706,64 @@ title is not defined
 2021-04-19T01:27:33.860Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
 2021-04-19T01:27:36.007Z [[32minfo[39m] : Database connected! 
 2021-04-19T01:27:36.008Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:29:38.924Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:29:41.566Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:29:41.567Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:29:46.795Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:29:49.346Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:29:49.347Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:29:59.528Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:30:01.736Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:30:01.737Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:30:19.651Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:30:22.451Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:30:22.452Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:31:37.523Z [[31merror[39m] : get is not defined 
+2021-04-19T01:34:12.914Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:34:15.226Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:34:15.227Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:34:19.832Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:34:22.182Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:34:22.183Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:35:02.808Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:35:05.174Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:35:05.175Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:41:53.253Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:41:55.840Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:41:55.841Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:42:20.494Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:42:22.845Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:42:22.845Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:43:27.894Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:43:30.846Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:43:30.847Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:45:00.282Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:45:03.075Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:45:03.076Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:46:18.879Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:46:21.536Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:46:21.537Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:46:58.500Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:47:00.736Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:47:00.736Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:47:55.977Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:04.784Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:48:07.457Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:48:07.457Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:48:15.082Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:15.082Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:39.674Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:48:41.843Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:48:41.844Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:48:44.633Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:11
+    9|       tags are used: <%= %>  -->
+    10|   <h1> <%= title %> </h1>
+ >> 11|   <h2><%= url %></h2>
+    12| 
+    13|   <!- For business logic these
+    14|       tags are used: <% %> -->
+
+url is not defined 
+2021-04-19T01:49:47.211Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:49:50.002Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:49:50.002Z [[32minfo[39m] : Database connected! 

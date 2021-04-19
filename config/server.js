@@ -4,8 +4,9 @@ const { ApolloServer } = require('apollo-server-express');
 
 const logger = require('./logger');
 const { PORT } = require('./env');
-const { resolvers } = require('../Resolvers');
-const { typeDefs } = require('../TypeDefs');
+const { resolvers } = require('../resolvers');
+const { typeDefs } = require('../typedefs');
+const getUrlService = require('../utils/getUrlService');
 
 async function startApolloServer() {
   const server = new ApolloServer({
@@ -14,7 +15,6 @@ async function startApolloServer() {
     context: async ({ req, res }) => ({
       req,
       res,
-      redirect: (path) => res.redirect(path),
     }),
   });
 
@@ -36,11 +36,29 @@ async function startApolloServer() {
     res.end();
   });
 
-  app.get('/:code', (req, res) => {
-    const urlCode = req.params.code;
-    get;
-    res.redirect('/graphql');
+  app.get('/:code', async (req, res, next) => {
+    try {
+      const urlCode = req.params.code;
+
+      const UrlService = getUrlService();
+      const url = await UrlService.getUrl(urlCode);
+
+      if (!url) {
+        const error = new Error(`Url with the code:${urlCode} not found`);
+        error.statusCode = 404;
+        throw error;
+      }
+
+      res.redirect(url.longUrl);
+    } catch (error) {
+      logger.error(error);
+      if (!error.statusCode) {
+        error.statusCode = 500;
+      }
+      next(error);
+    }
   });
+
   server.applyMiddleware({ app });
 
   await new Promise((resolve) => app.listen({ port }, resolve));

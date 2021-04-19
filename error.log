@@ -25,3 +25,16 @@ title is not defined
 2021-04-18T22:18:01.032Z [[31merror[39m] : graphql 
 2021-04-18T22:18:36.899Z [[31merror[39m] : graphql 
 2021-04-18T22:18:51.270Z [[31merror[39m] : if99ir 
+2021-04-19T01:31:37.523Z [[31merror[39m] : get is not defined 
+2021-04-19T01:47:55.977Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:15.082Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:15.082Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T01:48:44.633Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:11
+    9|       tags are used: <%= %>  -->
+    10|   <h1> <%= title %> </h1>
+ >> 11|   <h2><%= url %></h2>
+    12| 
+    13|   <!- For business logic these
+    14|       tags are used: <% %> -->
+
+url is not defined 
