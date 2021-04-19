@@ -1,4 +1,5 @@
 const winston = require('winston');
+const { NODE_ENV } = require('./env');
 
 const {
   combine,
@@ -15,7 +16,7 @@ const customFormat = printf(({ level, message, timestamp }) => {
 });
 
 const logger = winston.createLogger({
-  level: 'info',
+  level: NODE_ENV === 'production' ? 'info' : 'debug',
   format: combine(
     colorize(),
     splat(),

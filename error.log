@@ -1,2 +1,27 @@
 2021-04-14T22:21:40.014Z [[31merror[39m] : DB_CONNECTION_ERR: mongooe is not defined {"service":"url-shortener-service","stack":"ReferenceError: mongooe is not defined\n    at database (/Users/zl/projects/backdrop-server/config/db.js:17:25)\n    at Object.<anonymous> (/Users/zl/projects/backdrop-server/config/db.js:28:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
 2021-04-14T22:22:50.997Z [[31merror[39m] : DB_CONNECTION_ERR: mongooe is not defined {"service":"url-shortener-service","stack":"ReferenceError: mongooe is not defined\n    at database (/Users/zl/projects/backdrop-server/config/db.js:17:25)\n    at Object.<anonymous> (/Users/zl/projects/backdrop-server/config/db.js:28:1)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
+2021-04-18T00:06:48.348Z [[31merror[39m] : Url not found 
+2021-04-18T00:07:20.288Z [[31merror[39m] : Url not found 
+2021-04-18T20:13:58.491Z [[31merror[39m] : No default engine was specified and no extension was provided. 
+2021-04-18T20:19:46.360Z [[31merror[39m] : Cannot find module 'ejs'
+Require stack:
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/view.js
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/application.js
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/express.js
+- /Users/zl/projects/backdrop-server/node_modules/express/index.js
+- /Users/zl/projects/backdrop-server/config/server.js
+- /Users/zl/projects/backdrop-server/config/index.js
+- /Users/zl/projects/backdrop-server/index.js 
+2021-04-18T20:21:17.806Z [[31merror[39m] : Failed to lookup view "welcome" in views directory "/Users/zl/projects/backdrop-server/config/views" 
+2021-04-18T20:22:17.995Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:10
+    8|   <!- For printing variable these
+    9|       tags are used: <%= %>  -->
+ >> 10|   <h1> <%= title %> </h1>
+    11| 
+    12|   <!- For business logic these
+    13|       tags are used: <% %> -->
+
+title is not defined 
+2021-04-18T22:18:01.032Z [[31merror[39m] : graphql 
+2021-04-18T22:18:36.899Z [[31merror[39m] : graphql 
+2021-04-18T22:18:51.270Z [[31merror[39m] : if99ir 

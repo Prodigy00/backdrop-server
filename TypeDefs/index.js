@@ -3,6 +3,8 @@ const { gql } = require('apollo-server-express');
 const typeDefs = gql`
   scalar Date
 
+  scalar Void
+
   type Url {
     _id: ID!
     urlCode: String
@@ -13,10 +15,11 @@ const typeDefs = gql`
 
   type Query {
     getUrls: [Url]
+    getUrl(urlCode: String!): String #Void
   }
 
   type Mutation {
-    createShortUrl(longUrl: String!): Url!
+    shortenUrl(longUrl: String!): Url!
   }
 `;
 

@@ -392,3 +392,1317 @@
 2021-04-16T00:45:29.775Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
 2021-04-16T00:45:32.103Z [[32minfo[39m] : Database connected! 
 2021-04-16T00:45:32.106Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:32:55.002Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T01:32:57.270Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:32:57.270Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:34:09.748Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T01:34:11.873Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:34:11.874Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:34:19.803Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T01:34:21.704Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:34:21.704Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:36:59.949Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T01:37:02.134Z [[32minfo[39m] : Database connected! 
+2021-04-16T01:37:02.135Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:41:55.217Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:41:55.229Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:42:20.348Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:42:22.313Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:42:22.314Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:42:47.861Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:42:49.819Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:42:49.820Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:43:22.756Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:43:25.055Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:43:25.055Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:43:52.308Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:43:54.838Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:43:54.838Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:44:37.095Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:44:39.148Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:44:39.149Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:44:43.666Z [[32minfo[39m] : [object Object] 
+2021-04-16T10:45:13.171Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:45:15.118Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:45:15.119Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:45:47.421Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T10:45:51.406Z [[32minfo[39m] : Database connected! 
+2021-04-16T10:45:51.407Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:54:51.026Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:54:51.030Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:55:38.408Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:55:38.412Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:56:02.720Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:56:05.852Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:56:05.853Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:56:33.306Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:56:35.844Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:56:35.844Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:56:47.674Z [[34mdebug[39m] : [object Object] 
+2021-04-16T18:57:26.502Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:57:29.431Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:57:29.432Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:57:51.581Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:57:54.140Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:57:54.141Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:58:19.791Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:58:22.438Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:58:22.438Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:58:51.269Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T18:58:53.815Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:58:53.816Z [[32minfo[39m] : Database connected! 
+2021-04-16T18:58:57.257Z [[34mdebug[39m] : {"_extensionStack":{"extensions":[]}} 
+2021-04-16T19:05:35.707Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T19:05:39.013Z [[32minfo[39m] : Database connected! 
+2021-04-16T19:05:39.013Z [[32minfo[39m] : Database connected! 
+2021-04-16T19:05:45.624Z [[32minfo[39m] : context: O% 
+2021-04-16T19:06:02.757Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-16T19:06:05.256Z [[32minfo[39m] : Database connected! 
+2021-04-16T19:06:05.258Z [[32minfo[39m] : Database connected! 
+2021-04-16T19:06:10.254Z [[32minfo[39m] : context: { _extensionStack: GraphQLExtensionStack { extensions: [] } } 
+2021-04-17T23:08:30.526Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:08:30.544Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:08:43.136Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:08:45.523Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:08:45.523Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:09:06.823Z [[32minfo[39m] : context: {
+  req: <ref *1> IncomingMessage {
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: [],
+      flowing: true,
+      ended: true,
+      endEmitted: true,
+      reading: false,
+      sync: false,
+      needReadable: false,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      destroyed: false,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      defaultEncoding: 'utf8',
+      awaitDrainWriters: null,
+      multiAwaitDrain: false,
+      readingMore: false,
+      decoder: null,
+      encoding: null,
+      [Symbol(kPaused)]: false
+    },
+    _events: [Object: null prototype] { end: [Function: clearRequestTimeout] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [ServerResponse],
+      timeout: 0,
+      [Symbol(async_id_symbol)]: 225,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: -1,
+        _idlePrev: null,
+        _idleNext: null,
+        _idleStart: 25953,
+        _onTimeout: null,
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: true,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 233,
+        [Symbol(triggerId)]: 231
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    httpVersionMajor: 1,
+    httpVersionMinor: 1,
+    httpVersion: '1.1',
+    complete: true,
+    headers: {
+      host: 'localhost:4000',
+      connection: 'keep-alive',
+      'content-length': '166',
+      'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+      accept: '*/*',
+      'sec-ch-ua-mobile': '?0',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
+      'content-type': 'application/json',
+      origin: 'http://localhost:4000',
+      'sec-fetch-site': 'same-origin',
+      'sec-fetch-mode': 'cors',
+      'sec-fetch-dest': 'empty',
+      referer: 'http://localhost:4000/graphql',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+      'sec-gpc': '1'
+    },
+    rawHeaders: [
+      'Host',
+      'localhost:4000',
+      'Connection',
+      'keep-alive',
+      'Content-Length',
+      '166',
+      'sec-ch-ua',
+      '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+      'accept',
+      '*/*',
+      'sec-ch-ua-mobile',
+      '?0',
+      'User-Agent',
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
+      'content-type',
+      'application/json',
+      'Origin',
+      'http://localhost:4000',
+      'Sec-Fetch-Site',
+      'same-origin',
+      'Sec-Fetch-Mode',
+      'cors',
+      'Sec-Fetch-Dest',
+      'empty',
+      'Referer',
+      'http://localhost:4000/graphql',
+      'Accept-Encoding',
+      'gzip, deflate, br',
+      'Accept-Language',
+      'en-GB,en-US;q=0.9,en;q=0.8',
+      'sec-gpc',
+      '1'
+    ],
+    trailers: {},
+    rawTrailers: [],
+    aborted: false,
+    upgrade: false,
+    url: '/',
+    method: 'POST',
+    statusCode: null,
+    statusMessage: null,
+    client: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [ServerResponse],
+      timeout: 0,
+      [Symbol(async_id_symbol)]: 225,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: -1,
+        _idlePrev: null,
+        _idleNext: null,
+        _idleStart: 25953,
+        _onTimeout: null,
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: true,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 233,
+        [Symbol(triggerId)]: 231
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _consuming: true,
+    _dumped: false,
+    next: [Function: next],
+    baseUrl: '/graphql',
+    originalUrl: '/graphql',
+    _parsedUrl: Url {
+      protocol: null,
+      slashes: null,
+      auth: null,
+      host: null,
+      port: null,
+      hostname: null,
+      hash: null,
+      search: null,
+      query: null,
+      pathname: '/graphql',
+      path: '/graphql',
+      href: '/graphql',
+      _raw: '/graphql'
+    },
+    params: {},
+    query: {},
+    res: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      socket: [Socket],
+      _header: null,
+      _keepAliveTimeout: 5000,
+      _onPendingData: [Function: bound updateOutgoingData],
+      _sent100: false,
+      _expect_continue: false,
+      req: [Circular *1],
+      locals: [Object: null prototype] {},
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    body: {
+      operationName: null,
+      variables: {},
+      query: 'mutation {\n' +
+        '  createShortUrl(longUrl: "https://github.com/isayme/graphql-scalar-objectid") {\n' +
+        '    shortUrl\n' +
+        '  }\n' +
+        '}\n'
+    },
+    _body: true,
+    length: undefined,
+    [Symbol(kCapture)]: false,
+    [Symbol(RequestTimeout)]: undefined
+  },
+  res: <ref *2> ServerResponse {
+    _events: [Object: null prototype] { finish: [Function: bound resOnFinish] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [Circular *2],
+      timeout: 0,
+      [Symbol(async_id_symbol)]: 225,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: -1,
+        _idlePrev: null,
+        _idleNext: null,
+        _idleStart: 25953,
+        _onTimeout: null,
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: true,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 233,
+        [Symbol(triggerId)]: 231
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: null,
+    _keepAliveTimeout: 5000,
+    _onPendingData: [Function: bound updateOutgoingData],
+    _sent100: false,
+    _expect_continue: false,
+    req: <ref *1> IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'POST',
+      statusCode: null,
+      statusMessage: null,
+      client: [Socket],
+      _consuming: true,
+      _dumped: false,
+      next: [Function: next],
+      baseUrl: '/graphql',
+      originalUrl: '/graphql',
+      _parsedUrl: [Url],
+      params: {},
+      query: {},
+      res: [Circular *2],
+      body: [Object],
+      _body: true,
+      length: undefined,
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    locals: [Object: null prototype] {},
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [Array],
+      'access-control-allow-origin': [Array]
+    }
+  },
+  _extensionStack: GraphQLExtensionStack { extensions: [] }
+} 
+2021-04-17T23:44:15.684Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:44:18.932Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:44:18.933Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:48:31.894Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:48:35.914Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:48:35.914Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:54:54.522Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:54:58.375Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:54:58.377Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:56:06.792Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:56:09.214Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:56:09.215Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:56:23.440Z [[34mdebug[39m] : context: {
+  req: <ref *1> IncomingMessage {
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: [],
+      flowing: true,
+      ended: true,
+      endEmitted: true,
+      reading: false,
+      sync: false,
+      needReadable: false,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      destroyed: false,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      defaultEncoding: 'utf8',
+      awaitDrainWriters: null,
+      multiAwaitDrain: false,
+      readingMore: false,
+      decoder: null,
+      encoding: null,
+      [Symbol(kPaused)]: false
+    },
+    _events: [Object: null prototype] { end: [Function: clearRequestTimeout] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [ServerResponse],
+      [Symbol(async_id_symbol)]: 207,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    httpVersionMajor: 1,
+    httpVersionMinor: 1,
+    httpVersion: '1.1',
+    complete: true,
+    headers: {
+      host: 'localhost:4000',
+      connection: 'keep-alive',
+      'content-length': '106',
+      'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+      accept: '*/*',
+      'sec-ch-ua-mobile': '?0',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
+      'content-type': 'application/json',
+      origin: 'http://localhost:4000',
+      'sec-fetch-site': 'same-origin',
+      'sec-fetch-mode': 'cors',
+      'sec-fetch-dest': 'empty',
+      referer: 'http://localhost:4000/graphql',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+      'sec-gpc': '1'
+    },
+    rawHeaders: [
+      'Host',
+      'localhost:4000',
+      'Connection',
+      'keep-alive',
+      'Content-Length',
+      '106',
+      'sec-ch-ua',
+      '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+      'accept',
+      '*/*',
+      'sec-ch-ua-mobile',
+      '?0',
+      'User-Agent',
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
+      'content-type',
+      'application/json',
+      'Origin',
+      'http://localhost:4000',
+      'Sec-Fetch-Site',
+      'same-origin',
+      'Sec-Fetch-Mode',
+      'cors',
+      'Sec-Fetch-Dest',
+      'empty',
+      'Referer',
+      'http://localhost:4000/graphql',
+      'Accept-Encoding',
+      'gzip, deflate, br',
+      'Accept-Language',
+      'en-GB,en-US;q=0.9,en;q=0.8',
+      'sec-gpc',
+      '1'
+    ],
+    trailers: {},
+    rawTrailers: [],
+    aborted: false,
+    upgrade: false,
+    url: '/',
+    method: 'POST',
+    statusCode: null,
+    statusMessage: null,
+    client: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [ServerResponse],
+      [Symbol(async_id_symbol)]: 207,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _consuming: true,
+    _dumped: false,
+    next: [Function: next],
+    baseUrl: '/graphql',
+    originalUrl: '/graphql',
+    _parsedUrl: Url {
+      protocol: null,
+      slashes: null,
+      auth: null,
+      host: null,
+      port: null,
+      hostname: null,
+      hash: null,
+      search: null,
+      query: null,
+      pathname: '/graphql',
+      path: '/graphql',
+      href: '/graphql',
+      _raw: '/graphql'
+    },
+    params: {},
+    query: {},
+    res: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      socket: [Socket],
+      _header: null,
+      _keepAliveTimeout: 5000,
+      _onPendingData: [Function: bound updateOutgoingData],
+      _sent100: false,
+      _expect_continue: false,
+      req: [Circular *1],
+      locals: [Object: null prototype] {},
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    body: {
+      operationName: null,
+      variables: {},
+      query: '{\n  getUrl(urlCode: "_212YV") {\n    shortUrl\n  }\n}\n'
+    },
+    _body: true,
+    length: undefined,
+    [Symbol(kCapture)]: false,
+    [Symbol(RequestTimeout)]: undefined
+  },
+  res: <ref *2> ServerResponse {
+    _events: [Object: null prototype] { finish: [Function: bound resOnFinish] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [Circular *2],
+      [Symbol(async_id_symbol)]: 207,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: null,
+    _keepAliveTimeout: 5000,
+    _onPendingData: [Function: bound updateOutgoingData],
+    _sent100: false,
+    _expect_continue: false,
+    req: <ref *1> IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'POST',
+      statusCode: null,
+      statusMessage: null,
+      client: [Socket],
+      _consuming: true,
+      _dumped: false,
+      next: [Function: next],
+      baseUrl: '/graphql',
+      originalUrl: '/graphql',
+      _parsedUrl: [Url],
+      params: {},
+      query: {},
+      res: [Circular *2],
+      body: [Object],
+      _body: true,
+      length: undefined,
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    locals: [Object: null prototype] {},
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [Array],
+      'access-control-allow-origin': [Array]
+    }
+  },
+  _extensionStack: GraphQLExtensionStack { extensions: [] }
+}, args: { urlCode: '_212YV' } 
+2021-04-17T23:59:06.809Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:59:09.621Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:59:09.622Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:59:13.240Z [[34mdebug[39m] : [object Object] 
+2021-04-17T23:59:34.919Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-17T23:59:37.953Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:59:37.953Z [[32minfo[39m] : Database connected! 
+2021-04-17T23:59:40.571Z [[34mdebug[39m] : reqParams: {} 
+2021-04-18T00:00:18.948Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:00:21.279Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:00:21.280Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:00:24.399Z [[34mdebug[39m] : Parent: undefined 
+2021-04-18T00:00:46.078Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:00:47.728Z [[34mdebug[39m] : undefined 
+2021-04-18T00:00:49.237Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:00:49.237Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:00:59.211Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:01:02.905Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:02.906Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:05.095Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:01:07.460Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:07.460Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:09.541Z [[34mdebug[39m] : [object Object] 
+2021-04-18T00:01:23.436Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:01:26.357Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:26.358Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:01:29.573Z [[34mdebug[39m] : {
+  fieldName: 'getUrl',
+  fieldNodes: [
+    {
+      kind: 'Field',
+      alias: undefined,
+      name: [Object],
+      arguments: [Array],
+      directives: [],
+      selectionSet: [Object],
+      loc: [Object]
+    }
+  ],
+  returnType: Url,
+  parentType: Query,
+  path: { prev: undefined, key: 'getUrl', typename: 'Query' },
+  schema: GraphQLSchema {
+    __validationErrors: [],
+    description: undefined,
+    extensions: undefined,
+    astNode: undefined,
+    extensionASTNodes: [],
+    _queryType: Query,
+    _mutationType: Mutation,
+    _subscriptionType: undefined,
+    _directives: [ @cacheControl, @include, @skip, @deprecated, @specifiedBy ],
+    _typeMap: [Object: null prototype] {
+      Date: DateTime,
+      Url: Url,
+      ID: ID,
+      String: String,
+      Query: Query,
+      Mutation: Mutation,
+      CacheControlScope: CacheControlScope,
+      Upload: Upload,
+      Int: Int,
+      Boolean: Boolean,
+      __Schema: __Schema,
+      __Type: __Type,
+      __TypeKind: __TypeKind,
+      __Field: __Field,
+      __InputValue: __InputValue,
+      __EnumValue: __EnumValue,
+      __Directive: __Directive,
+      __DirectiveLocation: __DirectiveLocation
+    },
+    _subTypeMap: [Object: null prototype] {},
+    _implementationsMap: [Object: null prototype] {}
+  },
+  fragments: [Object: null prototype] {},
+  rootValue: undefined,
+  operation: {
+    kind: 'OperationDefinition',
+    operation: 'query',
+    name: undefined,
+    variableDefinitions: [],
+    directives: [],
+    selectionSet: { kind: 'SelectionSet', selections: [Array], loc: [Object] },
+    loc: { start: 0, end: 50 }
+  },
+  variableValues: {},
+  cacheControl: { setCacheHint: [Function: setCacheHint], cacheHint: { maxAge: 0 } }
+} 
+2021-04-18T00:05:07.471Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:05:10.976Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:05:10.976Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:05:43.867Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:05:46.606Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:05:46.607Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:06:18.665Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:06:21.844Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:06:21.844Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:06:48.348Z [[31merror[39m] : Url not found 
+2021-04-18T00:07:13.052Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:07:17.816Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:07:17.816Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:07:20.288Z [[31merror[39m] : Url not found 
+2021-04-18T00:07:56.514Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:07:59.007Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:07:59.007Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:08:02.991Z [[32minfo[39m] : {
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+} 
+2021-04-18T00:09:08.774Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:10:05.876Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:10:09.149Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:10:09.149Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:10:11.977Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:11:09.640Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:11:12.235Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:11:12.236Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:11:12.541Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:12:06.005Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:12:09.299Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:12:09.300Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:12:33.947Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:12:33.951Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:12:44.185Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:12:46.908Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:12:46.908Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:13:04.589Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:14:41.703Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:14:44.824Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:14:44.824Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:15:49.710Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:19:08.496Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:19:11.856Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:19:11.857Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:19:13.453Z [[32minfo[39m] : {
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-18T00:22:05.962Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:22:09.239Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:22:09.240Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:24:36.525Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:24:40.089Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:24:40.089Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:26:14.832Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:26:17.946Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:26:17.947Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:26:20.080Z [[34mdebug[39m] : http:,,localhost:4000,if99ir 
+2021-04-18T00:27:55.648Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:27:58.305Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:27:58.305Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:28:03.802Z [[34mdebug[39m] : if99ir 
+2021-04-18T00:28:50.724Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:28:53.439Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:28:53.439Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:29:05.638Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:29:07.879Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:29:07.880Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:29:14.801Z [[34mdebug[39m] : if99ir 
+2021-04-18T00:40:11.766Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:40:15.565Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:40:15.566Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:41:23.127Z [[34mdebug[39m] : if99ir 
+2021-04-18T00:52:53.667Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:52:57.753Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:52:57.754Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:06.069Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:54:08.736Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:08.737Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:23.928Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:54:26.346Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:26.347Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:40.862Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T00:54:43.286Z [[32minfo[39m] : Database connected! 
+2021-04-18T00:54:43.286Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:00:37.908Z [[32minfo[39m] : 🚀 Server listening on http://locahost:4000/graphql 
+2021-04-18T20:00:41.319Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:00:41.320Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:00:59.908Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:01:01.924Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:01:01.925Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:09:39.378Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:09:41.787Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:09:41.787Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:09:44.646Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:09:46.799Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:09:46.800Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:10:01.988Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:10:04.107Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:10:04.107Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:13:48.668Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:13:51.028Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:13:51.029Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:13:58.491Z [[31merror[39m] : No default engine was specified and no extension was provided. 
+2021-04-18T20:16:04.882Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:16:04.887Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:16:44.891Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:16:47.134Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:16:47.134Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:19:38.548Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:19:41.114Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:19:41.114Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:19:46.360Z [[31merror[39m] : Cannot find module 'ejs'
+Require stack:
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/view.js
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/application.js
+- /Users/zl/projects/backdrop-server/node_modules/express/lib/express.js
+- /Users/zl/projects/backdrop-server/node_modules/express/index.js
+- /Users/zl/projects/backdrop-server/config/server.js
+- /Users/zl/projects/backdrop-server/config/index.js
+- /Users/zl/projects/backdrop-server/index.js 
+2021-04-18T20:21:08.956Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:21:11.384Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:21:11.384Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:21:17.806Z [[31merror[39m] : Failed to lookup view "welcome" in views directory "/Users/zl/projects/backdrop-server/config/views" 
+2021-04-18T20:22:14.145Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:22:16.393Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:22:16.394Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:22:17.995Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:10
+    8|   <!- For printing variable these
+    9|       tags are used: <%= %>  -->
+ >> 10|   <h1> <%= title %> </h1>
+    11| 
+    12|   <!- For business logic these
+    13|       tags are used: <% %> -->
+
+title is not defined 
+2021-04-18T20:23:38.960Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:23:41.208Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:23:41.211Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:26:30.897Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:26:33.507Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:26:33.508Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:28:25.883Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:28:28.604Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:28:28.605Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:28:50.410Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T20:28:53.180Z [[32minfo[39m] : Database connected! 
+2021-04-18T20:28:53.180Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:15:16.447Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:15:18.793Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:15:18.793Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:43:39.361Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:43:42.451Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:43:42.452Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:46:28.430Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:46:31.067Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:46:31.067Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:46:53.146Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:46:55.143Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:46:55.143Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:49:42.257Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:49:44.630Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:49:44.631Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:49:54.049Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:49:56.061Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:49:56.062Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:50:07.146Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:50:09.196Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:50:09.196Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:52:01.051Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:52:03.536Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:52:03.536Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:52:35.125Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:52:40.122Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:52:42.125Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:52:42.126Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:55:49.802Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:55:52.082Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:55:52.083Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:11.349Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:56:13.432Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:13.432Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:19.387Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:56:21.324Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:21.325Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:34.521Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:56:36.740Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:56:36.741Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:57:39.244Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T21:57:41.575Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:57:41.575Z [[32minfo[39m] : Database connected! 
+2021-04-18T21:59:10.740Z [[34mdebug[39m] : if99ir 
+2021-04-18T22:09:28.305Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:09:30.594Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:09:30.595Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:09:36.885Z [[34mdebug[39m] : if99ir 
+2021-04-18T22:14:04.048Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:14:08.089Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:14:08.090Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:15:22.135Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:15:25.178Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:15:25.178Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:15:35.964Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:15:38.090Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:15:38.090Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:17:01.887Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:17:04.169Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:17:04.170Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:17:50.879Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:17:53.660Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:17:53.660Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:18:01.032Z [[31merror[39m] : graphql 
+2021-04-18T22:18:30.810Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T22:18:35.490Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:18:35.490Z [[32minfo[39m] : Database connected! 
+2021-04-18T22:18:36.899Z [[31merror[39m] : graphql 
+2021-04-18T22:18:51.270Z [[31merror[39m] : if99ir 
+2021-04-18T23:02:28.641Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:02:30.906Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:02:30.906Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:02:52.159Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:02:54.822Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:02:54.823Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:03:01.745Z [[34mdebug[39m] : if99ir 
+2021-04-18T23:03:01.954Z [[34mdebug[39m] : (path) => res.redirect(path) 
+2021-04-18T23:03:54.506Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:03:57.726Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:04:02.232Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:04:02.233Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:04:05.011Z [[34mdebug[39m] : if99ir 
+2021-04-18T23:04:05.318Z [[34mdebug[39m] : (path) => res.redirect(path) 
+2021-04-18T23:05:58.512Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:06:00.982Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:06:00.982Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:06:24.058Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:06:26.097Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:06:26.098Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:12:25.568Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:12:27.831Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:12:27.831Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:21:54.931Z [[34mdebug[39m] : if99ir 
+2021-04-18T23:21:55.169Z [[34mdebug[39m] : (path) => res.redirect(path) 
+2021-04-18T23:22:29.227Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:22:31.519Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:22:31.521Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:22:36.121Z [[34mdebug[39m] : if99ir 
+2021-04-18T23:22:36.330Z [[34mdebug[39m] : (path) => res.redirect(path) 
+2021-04-18T23:23:10.652Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:23:12.559Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:23:12.560Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:23:20.174Z [[34mdebug[39m] : if99ir 
+2021-04-18T23:23:20.389Z [[34mdebug[39m] : (path) => res.redirect(path) 
+2021-04-18T23:42:50.938Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:42:53.187Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:42:53.188Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:10.797Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:43:12.691Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:12.691Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:16.166Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:43:18.029Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:18.030Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:26.299Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:43:28.140Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:43:28.141Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:45:21.964Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:45:24.181Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:45:24.183Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:46:13.465Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:46:15.389Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:46:15.390Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:55:41.909Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:55:45.001Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:55:45.002Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:55:54.822Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:55:57.758Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:55:57.758Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:56:21.745Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-18T23:56:23.823Z [[32minfo[39m] : Database connected! 
+2021-04-18T23:56:23.824Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:00:58.454Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:01:00.643Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:01:00.643Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:02:41.730Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:02:45.046Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:02:45.047Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:03:12.186Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:03:14.058Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:03:14.058Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:03:21.376Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:03:23.862Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:03:23.862Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:06:00.901Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:06:03.145Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:06:03.146Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:08:39.402Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:08:41.652Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:08:41.652Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:09:23.642Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:09:25.555Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:09:25.555Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:12:33.732Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:12:38.818Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:12:40.674Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:12:40.675Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:14:02.504Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:14:05.275Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:14:05.275Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:17:42.977Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:17:45.194Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:17:45.195Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:32:44.136Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:32:46.968Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:32:46.969Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:33:09.836Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:33:12.336Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:33:12.337Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:34:53.076Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:34:55.753Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:34:55.754Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:35:20.457Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:35:22.764Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:35:22.764Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:35:50.022Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:35:52.574Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:35:52.574Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:36:42.783Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:36:45.424Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:36:45.424Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:36:55.178Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:36:57.394Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:36:57.394Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:37:34.512Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:37:37.007Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:37:37.007Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:45:23.553Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T00:45:26.373Z [[32minfo[39m] : Database connected! 
+2021-04-19T00:45:26.374Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:13:01.945Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:13:04.210Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:13:04.210Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:14:06.437Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:14:08.716Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:14:08.717Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:15:36.703Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:15:39.564Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:15:39.565Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:23:45.749Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:23:48.200Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:23:48.201Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:25:12.977Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:25:15.700Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:25:15.700Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:26:41.023Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:26:43.972Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:26:43.973Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:27:33.860Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T01:27:36.007Z [[32minfo[39m] : Database connected! 
+2021-04-19T01:27:36.008Z [[32minfo[39m] : Database connected! 

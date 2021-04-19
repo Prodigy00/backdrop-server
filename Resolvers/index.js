@@ -1,27 +1,23 @@
 const { GraphQLDateTime } = require('graphql-iso-date');
-const isValidUrl = require('../../utils/validUrl');
-const nanoid = require('../../utils/nano');
-const Url = require('../models/url');
-const { BASEURL } = require('../../config/env');
 const { UserInputError, ApolloError } = require('apollo-server-errors');
+const isValidUrl = require('../utils/validUrl');
+const nanoid = require('../utils/nano');
+
+const Url = require('../models/url');
+const { BASEURL } = require('../config/env');
+const logger = require('../config/logger');
+const VoidResolver = require('./VoidResolver');
+const QueryResolver = require('./QueryResolver');
 
 const resolvers = {
   Date: GraphQLDateTime,
-  Query: {
-    getUrls: async () => {
-      try {
-        return await Url.find({});
-      } catch (err) {
-        console.log({ err });
-        throw new ApolloError('Something went wrong');
-      }
-    },
-  },
+  Void: VoidResolver,
+  Query: QueryResolver,
 
   Mutation: {
-    createShortUrl: async (parent, args) => {
+    shortenUrl: async (parent, args, context) => {
       const { longUrl } = args;
-
+      logger.info('context: %O', context);
       const baseUrl = BASEURL;
       const urlCode = nanoid();
 
