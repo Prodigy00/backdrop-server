@@ -12,6 +12,8 @@ async function startApolloServer() {
   const server = new ApolloServer({
     typeDefs,
     resolvers,
+    playground: true,
+    introspection: true,
     context: async ({ req, res }) => ({
       req,
       res,
@@ -42,31 +44,31 @@ async function startApolloServer() {
     res.end();
   });
 
-  // app.get('/:code', async (req, res, next) => {
-  //   try {
-  //     // if (req.params.code === 'graphql') {
-  //     //   return next();
-  //     // }
-  //     const urlCode = req.params.code;
+  app.get('/:code', async (req, res, next) => {
+    try {
+      if (req.params.code === 'graphql') {
+        return next();
+      }
+      const urlCode = req.params.code;
 
-  //     const UrlService = getUrlService();
-  //     const url = await UrlService.getUrl(urlCode);
+      const UrlService = getUrlService();
+      const url = await UrlService.getUrl(urlCode);
 
-  //     if (!url) {
-  //       const error = new Error(`Url with the code:${urlCode} not found`);
-  //       error.statusCode = 404;
-  //       throw error;
-  //     }
+      if (!url) {
+        const error = new Error(`Url with the code:${urlCode} not found`);
+        error.statusCode = 404;
+        throw error;
+      }
 
-  //     res.redirect(url.longUrl);
-  //   } catch (error) {
-  //     logger.error(error);
-  //     if (!error.statusCode) {
-  //       error.statusCode = 500;
-  //     }
-  //     next(error);
-  //   }
-  // });
+      res.redirect(url.longUrl);
+    } catch (error) {
+      logger.error(error);
+      if (!error.statusCode) {
+        error.statusCode = 500;
+      }
+      next(error);
+    }
+  });
 
   server.applyMiddleware({ app });
 
