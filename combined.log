@@ -1767,3 +1767,285 @@ url is not defined
 2021-04-19T01:49:47.211Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
 2021-04-19T01:49:50.002Z [[32minfo[39m] : Database connected! 
 2021-04-19T01:49:50.002Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:39:41.087Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:28
+    26|       </thead>
+    27|       <tbody>
+ >> 28|         <% shortUrls.forEach(shortUrl => { %>
+    29|           <tr>
+    30|             <td><a href="<%= shortUrl.full %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= shortUrl.short %>"><%= shortUrl.short %></a></td>
+
+shortUrls is not defined 
+2021-04-19T07:42:49.856Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:42:53.699Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:42:53.700Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:42:58.474Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:30
+    28|         <% urls.forEach(url => { %>
+    29|           <tr>
+ >> 30|             <td><a href="<%= url.longUrl %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= url.shortUrl %>"><%= shortUrl.short %></a></td>
+    32|           </tr>
+    33|         <% }) %>
+
+shortUrl is not defined 
+2021-04-19T07:43:39.137Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:43:41.823Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:43:41.824Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:43:46.264Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T07:43:46.281Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:30
+    28|         <% urls.forEach(url => { %>
+    29|           <tr>
+ >> 30|             <td><a href="<%= url.longUrl %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= url.shortUrl %>"><%= shortUrl.short %></a></td>
+    32|           </tr>
+    33|         <% }) %>
+
+shortUrl is not defined 
+2021-04-19T07:45:20.932Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T07:46:24.547Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T07:46:41.433Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T07:53:53.670Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T07:54:06.093Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T07:54:06.093Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T07:55:37.210Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:55:40.277Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:55:40.277Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:56:59.874Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:57:02.740Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:57:02.740Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:57:39.233Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:57:41.947Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:57:41.947Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
+2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
+2021-04-19T07:58:20.347Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T07:58:22.974Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:58:22.975Z [[32minfo[39m] : Database connected! 
+2021-04-19T07:59:17.885Z [[34mdebug[39m] : {
+  _id: 6078da8253d758d2f434d094,
+  longUrl: 'https://something.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/Jn2UJd',
+  urlCode: 'Jn2UJd',
+  date: 2021-04-16T00:29:54.449Z,
+  __v: 0
+},{
+  _id: 6078db59ec6a6fd453f0c19f,
+  longUrl: 'https://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/gr8A3e',
+  urlCode: 'gr8A3e',
+  date: 2021-04-16T00:33:29.403Z,
+  __v: 0
+},{
+  _id: 6078dccecb02bdd4dc7cd710,
+  longUrl: 'http://amazon.com/cijsncpscmpaosxapinasijxns',
+  shortUrl: 'http://localhost:4000/jHojBo',
+  urlCode: 'jHojBo',
+  date: 2021-04-16T00:39:42.154Z,
+  __v: 0
+},{
+  _id: 6078ea554f52bad9a94a04ef,
+  longUrl: 'http://127.0.0.1:19575/gui/index.html?v=1.1.0.2856&localauth=localapi71baa7547b7c416c:#/library',
+  shortUrl: 'http://localhost:4000/_212YV',
+  urlCode: '_212YV',
+  date: 2021-04-16T01:37:25.139Z,
+  __v: 0
+},{
+  _id: 6078ea8d4f52bad9a94a04f0,
+  longUrl: 'https://github.com/isayme/graphql-scalar-objectid',
+  shortUrl: 'http://localhost:4000/if99ir',
+  urlCode: 'if99ir',
+  date: 2021-04-16T01:38:21.254Z,
+  __v: 0
+} 
+2021-04-19T08:00:36.618Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:00:40.290Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:00:40.291Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:01:53.293Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:01:55.859Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:01:55.860Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:02:14.012Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:02:19.997Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:02:23.406Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:02:23.406Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:04:15.586Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:04:21.981Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:04:24.245Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:04:24.245Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:04:41.138Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T08:04:43.962Z [[32minfo[39m] : Database connected! 
+2021-04-19T08:04:43.963Z [[32minfo[39m] : Database connected! 

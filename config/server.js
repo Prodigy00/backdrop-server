@@ -3,10 +3,11 @@ const path = require('path');
 const { ApolloServer } = require('apollo-server-express');
 
 const logger = require('./logger');
-const { PORT } = require('./env');
+const { PORT, BASEURL } = require('./env');
 const { resolvers } = require('../resolvers');
 const { typeDefs } = require('../typedefs');
 const getUrlService = require('../utils/getUrlService');
+const UrlService = require('../services/UrlService');
 
 async function startApolloServer() {
   const server = new ApolloServer({
@@ -28,16 +29,25 @@ async function startApolloServer() {
   const port = process.env.PORT || PORT;
   app.use(express.json({ extended: false }));
 
-  app.get('/', (req, res) => {
+  app.get('/', async (req, res) => {
+    const UrlService = getUrlService();
+    const urls = await UrlService.getUrls();
+    const baseUrl = `${BASEURL}/graphql`;
+
     res.status(200);
     res.render('welcome', {
       title: 'Welcome to backdrop',
+      urls,
+      baseUrl,
     });
     res.end();
   });
 
   app.get('/:code', async (req, res, next) => {
     try {
+      if (req.params.code === 'graphql') {
+        return next();
+      }
       const urlCode = req.params.code;
 
       const UrlService = getUrlService();

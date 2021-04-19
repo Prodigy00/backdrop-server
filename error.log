@@ -38,3 +38,34 @@ title is not defined
     14|       tags are used: <% %> -->
 
 url is not defined 
+2021-04-19T07:39:41.087Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:28
+    26|       </thead>
+    27|       <tbody>
+ >> 28|         <% shortUrls.forEach(shortUrl => { %>
+    29|           <tr>
+    30|             <td><a href="<%= shortUrl.full %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= shortUrl.short %>"><%= shortUrl.short %></a></td>
+
+shortUrls is not defined 
+2021-04-19T07:42:58.474Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:30
+    28|         <% urls.forEach(url => { %>
+    29|           <tr>
+ >> 30|             <td><a href="<%= url.longUrl %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= url.shortUrl %>"><%= shortUrl.short %></a></td>
+    32|           </tr>
+    33|         <% }) %>
+
+shortUrl is not defined 
+2021-04-19T07:43:46.281Z [[31merror[39m] : /Users/zl/projects/backdrop-server/views/welcome.ejs:30
+    28|         <% urls.forEach(url => { %>
+    29|           <tr>
+ >> 30|             <td><a href="<%= url.longUrl %>"><%= shortUrl.full %></a></td>
+    31|             <td><a href="<%= url.shortUrl %>"><%= shortUrl.short %></a></td>
+    32|           </tr>
+    33|         <% }) %>
+
+shortUrl is not defined 
+2021-04-19T07:54:06.093Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T07:54:06.093Z [[31merror[39m] : Url with the code:graphql not found 
+2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
+2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
