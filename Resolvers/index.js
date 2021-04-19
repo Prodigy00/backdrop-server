@@ -34,7 +34,7 @@ const resolvers = {
             return url;
           }
 
-          const shortUrl = baseUrl + '/' + urlCode;
+          const shortUrl = baseUrl + urlCode;
 
           url = new Url({
             longUrl,
