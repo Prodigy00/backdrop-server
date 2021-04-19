@@ -31,7 +31,7 @@ async function startApolloServer() {
   app.get('/', async (req, res) => {
     const UrlService = getUrlService();
     const urls = await UrlService.getUrls();
-    const baseUrl = `${BASEURL}/graphql`;
+    const baseUrl = `${BASEURL}graphql`;
 
     res.status(200);
     res.render('welcome', {
