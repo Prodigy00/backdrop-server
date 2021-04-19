@@ -5,7 +5,6 @@ const nanoid = require('../utils/nano');
 
 const Url = require('../models/url');
 const { BASEURL } = require('../config/env');
-const logger = require('../config/logger');
 const VoidResolver = require('./VoidResolver');
 const QueryResolver = require('./QueryResolver');
 

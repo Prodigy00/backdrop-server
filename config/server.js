@@ -7,7 +7,6 @@ const { PORT, BASEURL } = require('./env');
 const { resolvers } = require('../resolvers');
 const { typeDefs } = require('../typedefs');
 const getUrlService = require('../utils/getUrlService');
-const UrlService = require('../services/UrlService');
 
 async function startApolloServer() {
   const server = new ApolloServer({
