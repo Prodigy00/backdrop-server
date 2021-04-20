@@ -2457,3 +2457,51 @@ shortUrl is not defined
 2021-04-19T09:18:24.099Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
 2021-04-19T09:18:28.001Z [[32minfo[39m] : Database connected! 
 2021-04-19T09:18:28.001Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:41:09.778Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:41:11.841Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:41:11.841Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:41:19.249Z [[31merror[39m] : Url with the code:favicon.ico not found 
+2021-04-19T23:41:19.249Z [[31merror[39m] : Url with the code:favicon.ico not found 
+2021-04-19T23:43:01.262Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:43:09.163Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:43:09.164Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:43:36.952Z [[34mdebug[39m] : req params { code: 'graphql' } 
+2021-04-19T23:44:29.237Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:44:31.307Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:44:31.308Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:45:32.313Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:45:43.832Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:45:43.833Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:50:50.346Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:50:53.403Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:50:53.403Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:52:11.983Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:52:26.616Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:52:26.616Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:53:28.122Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:53:32.206Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:53:32.207Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:54:33.206Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:54:35.152Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:54:35.153Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:54:55.667Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:54:58.139Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:54:58.139Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:55:46.979Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:55:49.279Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:55:49.279Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:56:21.306Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:56:52.425Z [[31merror[39m] : DB_CONNECTION_ERR: connection timed out 
+2021-04-19T23:56:52.426Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:56:57.750Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:57:00.543Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:57:00.544Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:57:33.167Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:57:37.293Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:57:37.294Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:59:27.706Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-19T23:59:29.795Z [[32minfo[39m] : Database connected! 
+2021-04-19T23:59:29.796Z [[32minfo[39m] : Database connected! 
+2021-04-20T00:00:10.430Z [[32minfo[39m] : 🚀 Server listening on port:4000/graphql 
+2021-04-20T00:00:12.254Z [[32minfo[39m] : Database connected! 
+2021-04-20T00:00:12.254Z [[32minfo[39m] : Database connected! 

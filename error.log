@@ -69,3 +69,6 @@ shortUrl is not defined
 2021-04-19T07:54:06.093Z [[31merror[39m] : Url with the code:graphql not found 
 2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
 2021-04-19T07:57:46.763Z [[31merror[39m] : Url with the code:undefined not found 
+2021-04-19T23:41:19.249Z [[31merror[39m] : Url with the code:favicon.ico not found 
+2021-04-19T23:41:19.249Z [[31merror[39m] : Url with the code:favicon.ico not found 
+2021-04-19T23:56:52.425Z [[31merror[39m] : DB_CONNECTION_ERR: connection timed out 

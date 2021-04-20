@@ -9,8 +9,8 @@ const QueryResolver = {
     try {
       return await UrlSource.getUrls();
     } catch (err) {
-      console.log({ err });
-      throw new ApolloError('Something went wrong');
+      logger.error(err);
+      throw new ApolloError(error, '500');
     }
   },
   getUrl: async (parent, args) => {
