@@ -10,7 +10,9 @@ create a mutation as seen in the code block below, and add your desired Url at t
 
 Run the mutation.
 
-Then you can return to https://bkdrp.herokuapp.com and click on the shortened Url that represents your site.
+Return to https://bkdrp.herokuapp.com and click on the shortened Url that represents your site.
+
+(You may have to refresh the page if you don't see your shortened site) Enjoy!!
 
 ```
 mutation {
