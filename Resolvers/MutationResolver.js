@@ -4,10 +4,7 @@ const nanoid = require('../utils/nano');
 
 const Url = require('../models/url');
 const { BASEURL } = require('../config/env');
-const getUrlService = require('../utils/getUrlService');
 const logger = require('../config/logger');
-
-const UrlService = getUrlService();
 
 const MutationResolver = {
   shortenUrl: async (parent, args) => {
@@ -24,7 +21,7 @@ const MutationResolver = {
 
     if (isValidUrl(longUrl)) {
       try {
-        let url = await UrlService.findOne({ longUrl });
+        let url = await Url.findOne({ longUrl });
 
         if (url) {
           return url;
