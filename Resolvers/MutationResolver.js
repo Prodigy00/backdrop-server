@@ -5,6 +5,7 @@ const nanoid = require('../utils/nano');
 const Url = require('../models/url');
 const { BASEURL } = require('../config/env');
 const getUrlService = require('../utils/getUrlService');
+const logger = require('../config/logger');
 
 const UrlService = getUrlService();
 
