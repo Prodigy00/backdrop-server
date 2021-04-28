@@ -25,5 +25,5 @@ const database = async () => {
     logger.error(`DB_CONNECTION_ERR:`, error);
   }
 };
-database();
+
 module.exports = database;
